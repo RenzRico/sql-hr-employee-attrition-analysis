@@ -15,7 +15,7 @@ Granularity: One record per employee
 
 🛠 Tools Used
 
-SQL (PostgreSQL / MySQL compatible)
+SQL (MySQL compatible)
 GitHub
 Kaggle Dataset
 
